@@ -16,6 +16,8 @@
   Run 'npm i' in terminal in order to install.
   
   ## Usage 
+
+  [![Screencastify README Demo](https://github.com/Gavinmr1/Template-Engine-Employee-Summary/blob/main/demo.gif)
   
   *Instructions and examples for use:*
   
