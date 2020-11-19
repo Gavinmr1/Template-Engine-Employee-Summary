@@ -17,12 +17,11 @@
   
   ## Usage 
 
-  [![Screencastify README Demo](https://github.com/Gavinmr1/Template-Engine-Employee-Summary/blob/main/demo.gif)
-  
   *Instructions and examples for use:*
   
   This application can be invoked using 'node app.js' in the command-line to create an HTML page from the users information. The user will be prompted for inputs such as github, email, and other information to be included in the HTML page.
   
+  ![Screencastify README Demo](https://github.com/Gavinmr1/Template-Engine-Employee-Summary/blob/main/demo.gif)
   ## Tests
   
   *Tests for application and how to run them:*
