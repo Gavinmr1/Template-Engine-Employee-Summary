@@ -4,7 +4,7 @@
   
   This template engine is a Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each person.
   
-    ![Screencastify README Demo](https://github.com/Gavinmr1/Template-Engine-Employee-Summary/blob/main/final.gif)
+    ![Screencastify README Demo](https://github.com/Gavinmr1/Template-Engine-Employee-Summary//final.gif)
 
   
   ## Table of Contents
